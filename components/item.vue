@@ -55,6 +55,5 @@
 <style lang="scss">
     .silentbox-item {
         cursor: pointer;
-        text-decoration: underline;
     }
 </style>
